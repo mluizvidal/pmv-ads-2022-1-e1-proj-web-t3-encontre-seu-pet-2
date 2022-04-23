@@ -10,7 +10,7 @@ Diagrama que permite a modelagem física de um sistema, através da visão dos s
 
 Exemplo: 
 
-Os componentes que fazem parte da solução são apresentados na Figura XX.
+<!-- Os componentes que fazem parte da solução são apresentados na Figura XX. -->
 
 ![Diagrama de Componentes](https://user-images.githubusercontent.com/103226164/164837826-d2a52a39-6038-41f5-a191-1c163e73a77a.png)
 <center>Figura XX - Arquitetura da Solução</center>
